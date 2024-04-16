@@ -1,1 +1,1 @@
-this sis the black jack game code
+this is the black jack game code
